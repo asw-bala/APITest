@@ -1,0 +1,14 @@
+Operation,Scenario,userName,password,endPoint,plotNumber,street,state,country,zipCode,userFirstName,userLastName,userContactNumber,userEmailId,statusCode,statusMessage
+POST,Creating user with all valid data,Numpy@gmail.com,userapi@october,/createusers,AS-99,Gorniak,MI,USA,7896,TesterAP,Numpy,7788996652,tester006@gmail.com,201,Created
+POST,Creating user with all valid data,Numpy@gmail.com,userapi@october,/createusers,AS-99,Gorniak,MI,USA,7896,TesterAQ,Numpy,8855996673,tester007@gmail.com,201,Created
+POST,Creating user with duplicate contact number,Numpy@gmail.com,userapi@october,/createusers,AS-99,Gorniak,MI,USA,7896,TesterAD,Numpy,7788996652,testfournewl@gmail.com,409,Conflict
+POST,Creating user with duplicate mail id,Numpy@gmail.com,userapi@october,/createusers,AS-99,Gorniak,MI,USA,7896,TesterAD,Numpy,8527411230,tester006@gmail.com,409,Conflict
+POST,Creating user with invalid endpoint,Numpy@gmail.com,userapi@october,/createuser,AS-99,Gorniak,MI,USA,7896,Lancy,Lori,1230456078,testfournewl@gmail.com,404,Not Found
+POST,Creating user with invalid authorization,Numpy@gmail.com,userapi@June,/createusers,AS-99,Gorniak,MI,USA,7896,Fama,Michael,1472583691,testlearnerad@gmail.com,401,Unauthorized
+POST,Creating user with no authorization,,,/createusers,AS-99,Gorniak,MI,USA,7896,Fama ,Numpy,1472583691,testlearnerad@gmail.com,401,Unauthorized
+GETUSERS,Get all users,Numpy@gmail.com,userapi@october,/users,,,,,,,,,,200,OK
+GETUSERSBYID,Get user with userid,Numpy@gmail.com,userapi@october,/user,,,,,,,,,,200,OK
+GETUSERSBYNAME,Get user with user firstname,Numpy@gmail.com,userapi@october,/users/username,,,,,,,,,,200,OK
+PUT,Update user,Numpy@gmail.com,userapi@october,/updateuser,AS-99,Gorniak,MI,USA,7896,TesterAP,Numpy,7788996652,tester006@gmail.com,200,OK
+DELETEUSERBYID,Delete user by id,Numpy@gmail.com,userapi@october,/deleteuser,,,,,,,,,,200,OK
+DELETEUSERBYNAME,Delete user by name,Numpy@gmail.com,userapi@october,/deleteuser/username,,,,,,,,,,200,OK

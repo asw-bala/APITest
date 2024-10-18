@@ -1,0 +1,250 @@
+[INFO ]2024-10-1714:49:02.349[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:49:02.354[main]Utilities.LoggerLoad1)-RequestBody
+
+[INFO ]2024-10-1714:49:02.355[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:49:02.356[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1714:49:03.048[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:49:33.097[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:49:33.100[main]Utilities.LoggerLoad1)-RequestBody
+
+[INFO ]2024-10-1714:49:33.100[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:49:33.101[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1714:49:33.808[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:53:33.714[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:53:33.719[main]Utilities.LoggerLoad1)-RequestBody
+
+[INFO ]2024-10-1714:53:33.723[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:53:33.724[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1714:53:34.444[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:55:36.509[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:55:36.512[main]Utilities.LoggerLoad1)-RequestBody
+
+[INFO ]2024-10-1714:55:36.513[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1714:55:36.514[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1714:55:37.235[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1715:21:52.085[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1715:21:52.089[main]Utilities.LoggerLoad1)-RequestBody
+
+[INFO ]2024-10-1715:21:52.090[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1715:21:52.091[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1715:21:52.771[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1715:21:54.525[main]Utilities.LoggerLoad1)-{
+    "userAddress": {
+        "addressId": 10746,
+        "plotNumber": "AS-99",
+        "street": "Gorniak",
+        "state": "MI",
+        "country": "USA",
+        "zipCode": 7896
+    },
+    "user_id": 10778,
+    "user_first_name": "TesterAN",
+    "user_last_name": "Numpy",
+    "user_contact_number": 2583691477,
+    "user_email_id": "testlearneran@gmail.com",
+    "creation_time": "2024-10-17T19:21:54.297+00:00",
+    "last_mod_time": "2024-10-17T19:21:54.297+00:00"
+}
+[INFO ]2024-10-1719:53:01.633[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:01.638[main]Utilities.LoggerLoad1)-RequestBody
+
+[INFO ]2024-10-1719:53:01.638[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:01.639[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1719:53:02.339[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:47.057[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:47.060[main]Utilities.LoggerLoad1)-RequestBody
+
+[INFO ]2024-10-1719:53:47.061[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:47.063[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1719:53:47.796[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:49.511[main]Utilities.LoggerLoad1)-{
+    "userAddress": {
+        "addressId": 10823,
+        "plotNumber": "AS-99",
+        "street": "Gorniak",
+        "state": "MI",
+        "country": "USA",
+        "zipCode": 7896
+    },
+    "user_id": 10855,
+    "user_first_name": "TesterAN",
+    "user_last_name": "Numpy",
+    "user_contact_number": 2583691477,
+    "user_email_id": "testlearneran@gmail.com",
+    "creation_time": "2024-10-17T23:53:49.287+00:00",
+    "last_mod_time": "2024-10-17T23:53:49.287+00:00"
+}
+[INFO ]2024-10-1719:53:50.191[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:50.192[main]Utilities.LoggerLoad1)-RequestBody
+
+[INFO ]2024-10-1719:53:50.193[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:50.193[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1719:53:50.198[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:50.523[main]Utilities.LoggerLoad1)-{
+    "userAddress": {
+        "addressId": 10824,
+        "plotNumber": "AS-99",
+        "street": "Gorniak",
+        "state": "MI",
+        "country": "USA",
+        "zipCode": 7896
+    },
+    "user_id": 10856,
+    "user_first_name": "TesterAO",
+    "user_last_name": "Numpy",
+    "user_contact_number": 1472583698,
+    "user_email_id": "testlearnera0@gmail.com",
+    "creation_time": "2024-10-17T23:53:50.407+00:00",
+    "last_mod_time": "2024-10-17T23:53:50.407+00:00"
+}
+[INFO ]2024-10-1719:53:50.544[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:50.544[main]Utilities.LoggerLoad1)-RequestBody
+
+[INFO ]2024-10-1719:53:50.545[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:50.545[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAD","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testle@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1719:53:50.547[main]Utilities.LoggerLoad1)---------------
+[INFO ]2024-10-1719:53:50.867[main]Utilities.LoggerLoad1)-{
+    "status": "409 CONFLICT",
+    "message": "User already exist with same email id"
+}
+[INFO ]2024-10-1808:55:21.232[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1808:55:21.256[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1808:55:24.379[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1808:55:24.379[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1808:55:24.775[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1808:55:24.776[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAD","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testle@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1808:55:25.125[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1808:55:25.126[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAD","user_last_name":"Numpy","user_contact_number":"8527411230","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1808:55:25.431[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1808:55:25.431[main]Utilities.LoggerLoad1)-{"user_first_name":"Lancy","user_last_name":"Lori","user_contact_number":"1472583691","user_email_id":"testlearnerad@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1808:55:25.792[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1808:55:25.794[main]Utilities.LoggerLoad1)-{"user_first_name":"Fama","user_last_name":"Michael","user_contact_number":"1472583691","user_email_id":"testlearnerad@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1808:55:26.114[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1808:55:26.115[main]Utilities.LoggerLoad1)-{"user_first_name":"Fama ","user_last_name":"Numpy","user_contact_number":"1472583691","user_email_id":"testlearnerad@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:17:24.098[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:17:24.103[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:17:27.191[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:17:27.197[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:17:27.584[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:17:27.585[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:17:27.920[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:17:27.920[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:27:11.874[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:27:11.878[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:27:14.962[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:27:14.965[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:27:15.344[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:27:15.345[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:27:15.694[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:27:15.694[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:33:28.985[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:33:28.990[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:33:32.139[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:33:32.144[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:33:32.497[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:33:32.498[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:33:32.822[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:33:32.823[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:35:44.818[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:35:44.821[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:35:47.850[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:35:47.851[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:35:48.217[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:35:48.217[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:35:48.534[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:35:48.534[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:40:48.354[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:40:48.359[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:40:51.462[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:40:51.462[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:40:51.853[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:40:51.854[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:40:52.202[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:40:52.203[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:42:54.985[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:42:54.993[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:42:58.200[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:42:58.202[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:42:58.647[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:42:58.648[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:42:58.986[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:42:58.986[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:45:07.721[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:45:07.725[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:45:10.902[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:45:10.903[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:45:11.274[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:45:11.275[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:45:11.623[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:45:11.624[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:46:05.300[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:46:05.304[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:46:08.468[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:46:08.468[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:46:08.838[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:46:08.839[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:46:09.162[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:46:09.163[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:50:36.647[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:50:36.651[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:50:39.750[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:50:39.752[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:50:40.115[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:50:40.116[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:50:40.463[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:50:40.463[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:51:00.669[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:51:00.673[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAN","user_last_name":"Numpy","user_contact_number":"2583691477","user_email_id":"testlearneran@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:51:04.371[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:51:04.373[main]Utilities.LoggerLoad1)-{"user_first_name":"TesterAO","user_last_name":"Numpy","user_contact_number":"1472583698","user_email_id":"testlearnera0@gmail.com","userAddress":{"plotNumber":"AS-99","street":"Gorniak","state":"MI","country":"USA","zipCode":"7896"}}
+[INFO ]2024-10-1810:51:04.733[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:51:04.733[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
+[INFO ]2024-10-1810:51:05.061[main]Utilities.LoggerLoad1)-RequestBody:
+
+[INFO ]2024-10-1810:51:05.061[main]Utilities.LoggerLoad1)-{"user_first_name":null,"user_last_name":null,"user_contact_number":null,"user_email_id":null,"userAddress":{"plotNumber":null,"street":null,"state":null,"country":null,"zipCode":null}}
